@@ -1,6 +1,4 @@
 # Askfm-project
-Project to learn basics of OOP
-# My First OOP Project using C++ Language
 
 ## Description
 This is a simple ASK.FM Project implemented by C++.
