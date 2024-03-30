@@ -1,6 +1,5 @@
 # Askfm-project
 
-## Description
 This is a simple ASK.FM Project implemented by C++.
 
 ## Features
