@@ -2,9 +2,6 @@
 Project to learn basics of OOP
 # My First OOP Project using C++ Language
 
-## Description
-This is a simple simulation of an ASKfm app implemented in C++.
-
 ### Features
 - Make account (user name, password, id)
 - Sign up, Login, and Logout
