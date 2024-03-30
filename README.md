@@ -3,7 +3,6 @@
 This is a simple ASK.FM Project implemented by C++.
 
 ## Features
-- Make an account (user name, password, id)
 - Sign up, sign in, and sign out
 - Ask any user in the system
 - Answer questions from any user in the system
